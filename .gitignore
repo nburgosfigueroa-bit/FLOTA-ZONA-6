@@ -40,3 +40,12 @@ next-env.d.ts
 /.wrangler/
 /outputs/
 /work/
+
+# Información privada de conductores y vehículos
+/documentos-privados/
+/datos-privados/
+/private/
+*.carnet.*
+*.cedula.*
+*.licencia-conducir.*
+*.licencia_conducir.*
