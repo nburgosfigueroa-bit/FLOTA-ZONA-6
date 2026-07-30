@@ -1,4 +1,4 @@
-﻿# Dashboard de Flota · Maipú Zona 6
+# Dashboard de Flota · Maipú Zona 6
 
 Tablero independiente para consultar vehículos, responsables y estado documental de la flota operacional.
 
